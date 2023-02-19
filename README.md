@@ -22,7 +22,6 @@ pip install mechanize
 
  cd File-Clone
 
- python Ariyan.py
-
+ python FILE.py
 
 # FUCK YOUR SYSTEM 
