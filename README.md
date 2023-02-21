@@ -22,6 +22,6 @@ pip install mechanize
 
  cd File-Clone
 
- python FILE
+ python FILE.py
 
 # FUCK YOUR SYSTEM 
